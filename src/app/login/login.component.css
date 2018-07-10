@@ -1,0 +1,9 @@
+.content{ width:100%}
+.midcontent{ width:30%;float:left;background-color:#D3D3D3;padding:10px}
+.form-group{ width:100%;float:left;}
+
+.midcontent label{ width:30%; font-family: Arial, Helvetica, sans-serif; font-size: 13px;margin: 10px;float:left;}
+.midcontent input{ width:50%;font-family: Arial, Helvetica, sans-serif; font-size: 13px;margin: 10px;float:left;padding:4px}
+.btnsub{ width:20%!important;cursor: pointer;}
+.error{float: left; width: 50%; margin-left: 38%; color: red;}
+.hdrerror{ width: 90%;float: left;border: 1px solid red;padding: 5px;color: red;}
